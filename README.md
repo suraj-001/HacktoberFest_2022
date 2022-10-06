@@ -86,4 +86,4 @@ git push origin branch-name
 
 ### Thanks for visiting!
 #### Regards, Anuj Sharma
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanujsharma999/)](https://www.linkedin.com/in/imanujsharma999/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanujsharma99/)](https://www.linkedin.com/in/imanujsharma99/)
